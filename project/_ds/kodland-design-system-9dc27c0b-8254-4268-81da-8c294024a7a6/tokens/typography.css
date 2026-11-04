@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap');
+:root{
+--font-display:'Poppins',-apple-system,'Segoe UI',sans-serif;
+--font-body:'Poppins',-apple-system,'Segoe UI',sans-serif;
+--font-mono:'SFMono-Regular',Consolas,monospace;
+--fs-display-xl:64px;--fs-display-lg:48px;--fs-display-md:36px;--fs-display-sm:28px;
+--fs-h1:40px;--fs-h2:30px;--fs-h3:24px;--fs-h4:20px;
+--fs-body-lg:19px;--fs-body:16px;--fs-body-sm:14px;--fs-caption:12px;
+--lh-tight:1.1;/* @kind other */--lh-snug:1.25;/* @kind other */--lh-normal:1.5;/* @kind other */--lh-relaxed:1.65;/* @kind other */
+--fw-regular:400;/* @kind other */--fw-medium:500;/* @kind other */--fw-semibold:600;/* @kind other */--fw-bold:700;/* @kind other */--fw-extrabold:800;/* @kind other */
+}

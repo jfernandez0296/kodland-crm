@@ -1,0 +1,9 @@
+:root{
+--radius-sm:8px;--radius-md:14px;--radius-lg:24px;--radius-xl:32px;--radius-pill:999px;
+--shadow-sm:0 1px 2px rgba(24,24,24,0.06);
+--shadow-md:0 4px 16px rgba(24,24,24,0.08);
+--shadow-lg:0 12px 32px rgba(24,24,24,0.12);
+--shadow-brand:0 8px 24px rgba(184,239,46,0.35);
+--ease-standard:cubic-bezier(.4,0,.2,1);/* @kind other */--ease-bounce:cubic-bezier(.34,1.56,.64,1);/* @kind other */
+--dur-fast:120ms;/* @kind other */--dur-normal:200ms;/* @kind other */--dur-slow:320ms;/* @kind other */
+}

@@ -1,0 +1,14 @@
+:root{
+--lime-50:#f7ffe8;--lime-100:#eeffc7;--lime-200:#e2ffa0;--lime-300:#d6ff66;--lime-400:#c8f159;--lime-500:#b8ef2e;--lime-600:#9bd420;--lime-700:#7aa819;
+--ink-900:#181818;--ink-800:#262626;--ink-700:#3a3a3a;--ink-500:#6b6b6b;--ink-300:#a3a3a3;--ink-100:#e2e2e2;
+--white:#ffffff;--paper:#fbfdf3;
+--pink-400:#ff8fb8;--pink-500:#ff5f9a;--pink-600:#e8467f;
+--orange-400:#ffb066;--orange-500:#ff9838;--orange-600:#f2790f;
+--blue-400:#6fa8ff;--blue-500:#3b82f6;--blue-600:#2563d9;
+--success:#4caf50;--warning:var(--orange-500);--danger:#ef4444;
+--brand-primary:var(--lime-300);--brand-primary-strong:var(--lime-500);
+--text-body:var(--ink-800);--text-muted:var(--ink-500);--text-inverse:var(--white);
+--surface-page:var(--white);--surface-paper:var(--paper);--surface-brand:var(--lime-300);--surface-card:var(--white);--surface-sunken:var(--ink-100);
+--border-default:var(--ink-100);--border-strong:var(--ink-900);
+--accent-coding:var(--blue-500);--accent-design:var(--pink-500);--accent-drawing:var(--orange-500);--accent-math:var(--lime-600);
+}
